@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1611314583 source:c:\users\dharm\onedrive\desktop\desktop folder\hackerrank solutions\sum-of-digits-5-digit-number\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
