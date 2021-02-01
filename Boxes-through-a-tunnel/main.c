@@ -26,7 +26,7 @@ int is_lower_than_max_height(box b) {
 	/**
 	* Return 1 if the box's height is lower than MAX_HEIGHT and 0 otherwise
 	*/
-    if(b.height<41){
+    if(b.height<MAX_HEIGHT){
         return 1;
     }
     else{
